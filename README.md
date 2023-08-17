@@ -9,7 +9,7 @@ In this workshop, we'll journey through the core concepts of neural networks, ex
 ## Contents
 
 -   `datasets/`: A directory containing sample datasets for our hands-on exercises.
--   `code_samples/`: Code snippets and example scripts used during the demonstrations.
+-   `supplements/`: Code snippets and example scripts used during the demonstrations.
 -   `resources.md`: A curated list of additional resources, tutorials, and references to help you continue your AI/ML learning journey.
 
 ## Get Started
@@ -31,14 +31,13 @@ We're thrilled to dive into the world of neural networks and transfer learning w
 
 Happy learning,
 Neave Paul
+<br>
 
   <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/neavepaul/"><img src="linkedin.svg" width=40></a>
+  <a href="https://www.linkedin.com/in/neavepaul/"><img src="supplements\digits\assets\linkedin.svg" width=40></a>
   &nbsp&nbsp
-  <a href="mailto:neave.mailbox@gmail.com?"><img src ="gmail.svg" width= 40</a> 
+  <a href="mailto:neave.mailbox@gmail.com?"><img src ="supplements\digits\assets\gmail.svg" width= 40</a> 
   &nbsp&nbsp
-  <a href="http://discordapp.com/users/792220933912920081"><img src ="discord.svg" width= 40</a>
+  <a href="https://twitter.com/iamneavepaul"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
   &nbsp&nbsp
-  <a href="https://twitter.com/iamneavepaul"><img src ="twitter.svg" width= 40</a>
-  &nbsp&nbsp
-  <a href="https://neavepaul.github.io"><img src ="internet.svg" width= 40</a>
+  <a href="https://neavepaul.github.io"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
