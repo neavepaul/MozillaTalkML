@@ -8,7 +8,7 @@ In this workshop, we'll journey through the core concepts of neural networks, ex
 
 ## Contents
 
--   `datasets/`: A directory containing sample datasets for our hands-on exercises.
+-   `datasets/`: A directory containing sample datasets for our hands-on exercises. The dataset is also available on Kaggle: [Download Dataset](https://kaggle.com/datasets/1a8afd70f74fb9af25decec9154b9bbf86aa170dd6df80841d4078f79e68669c).
 -   `supplements/`: Code snippets and example scripts used during the demonstrations.
 -   `resources.md`: A curated list of additional resources, tutorials, and references to help you continue your AI/ML learning journey.
 
