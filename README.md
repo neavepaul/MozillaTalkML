@@ -33,11 +33,11 @@ Happy learning,
 Neave Paul
 <br>
 
-  <h2>📫 How to reach me:</h2>
-  <a href="https://www.linkedin.com/in/neavepaul/"><img src="supplements\digits\assets\linkedin.svg" width=40></a>
-  &nbsp&nbsp
-  <a href="mailto:neave.mailbox@gmail.com?"><img src ="supplements\digits\assets\gmail.svg" width= 40</a> 
-  &nbsp&nbsp
-  <a href="https://twitter.com/iamneavepaul"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
-  &nbsp&nbsp
-  <a href="https://neavepaul.github.io"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
+<h2>📫 How to reach me:</h2>
+<a href="https://www.linkedin.com/in/neavepaul/"><img src="supplements\digits\assets\linkedin.svg" width=40></a>
+&nbsp&nbsp
+<a href="mailto:neave.mailbox@gmail.com?"><img src ="supplements\digits\assets\gmail.svg" width= 40</a> 
+&nbsp&nbsp
+<a href="https://twitter.com/iamneavepaul"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
+&nbsp&nbsp
+<a href="https://neavepaul.github.io"><img src ="supplements\digits\assets\twitter.svg" width= 40</a>
