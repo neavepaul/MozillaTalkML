@@ -29,7 +29,7 @@ At the beginning of the workshop, please follow these steps:
 
 We're thrilled to dive into the world of neural networks and transfer learning with you. Let's master these modern tools and unleash their potential together!
 
-Happy learning,
+Happy learning,  
 Neave Paul
 <br>
 
